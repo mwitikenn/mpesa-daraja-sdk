@@ -1,5 +1,6 @@
 package com.indepthkenya.mpesa.utils;
 import okhttp3.*;
+import org.apache.log4j.Logger;
 
 import javax.net.ssl.*;
 import java.io.IOException;
